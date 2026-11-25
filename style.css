@@ -71,3 +71,6 @@ a { -webkit-tap-highlight-color: transparent; }
   .float-tag { font-size:10px; padding:8px 10px; }
   .contact-inner h2 { font-size:clamp(42px,12vw,65px); }
 }
+body {
+    background: #151020 !important;
+}
